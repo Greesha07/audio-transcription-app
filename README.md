@@ -1,9 +1,4 @@
-Here’s a **clean, short, professional README.md** you can directly copy paste.
-Simple language. No fluff. Meeting ready.
 
----
-
-```md
 # Audio to Text Transcription App 🎙️➡️📝
 
 A full-stack web app that converts audio files into text using OpenAI Whisper.
